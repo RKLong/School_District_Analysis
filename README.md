@@ -6,6 +6,7 @@ I apologize for the state of "this". I know that the work is incomplete but I wo
 
 I am still interested in resubmitting my work after I've completed it; I hope I can still do that. I still want to finish it and have it looked over by someone. And Yes, I understand that whatever grade I get from whatever I submit today is final. 
 
-Sincerely
+Sincerely,
+
 Richelle Long
 
