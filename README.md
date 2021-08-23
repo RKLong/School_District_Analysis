@@ -10,9 +10,9 @@ The first objective is to be able to replace the math and reading scores for one
 
 ## Effects to the District Summary
 There was very minimal change after the corrections were made with the Maths and Reading scores of Thomas High School.
-* The was a 0.1 decreased in the average Maths score, from 79.0 to 78.9.
+* The was a 0.1 decrease in the average Maths score, from 79.0 to 78.9.
 * The passing Maths score also decreased from 75.0% tp 73.9%.
-* The overall passing score a=lso decreased from 65.2% to 64.1%
+* The overall passing score also decreased from 65.2% to 64.1%
 
 
 ![district_summary](Resources/school_district_summary_summary.png)
