@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-UCB Challenge: Apply pandas and NumPy to be able to come up with a more accurate data that can be used for the school district's analysis of 10th-12th grader's reading and math scores.
+Apply pandas and NumPy to be able to come up with a more accurate data that can be used for the school district's analysis of 10th-12th grader's reading and math scores.
 
 # Overview of the School District Analysis
 The first objective is to be able to replace the math and reading scores for one of the high schools while keeping the rest of the data intact. Before repeating the school district analysis, we took out all the scores for that grade level in that high school so it doesnt affect the overall numbers of the school district.
